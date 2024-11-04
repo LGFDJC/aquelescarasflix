@@ -1,0 +1,26 @@
+body {
+    background-color: rgb(0, 0, 0);
+    color: beige (218, 93, 93);
+    font-family: "Permanent Marker", cursive;
+}
+header {
+    border-bottom: solid 2px rgb(0, 0, 0);
+    padding: 0px;
+    font-size: 32px;
+    color: rgb(255, 255, 255);
+}
+section {
+    background: beige;
+    padding-top: 80px;
+    padding-bottom: 80px;
+    display: flex;
+    justify-content: center;
+
+    
+}
+div {
+    margin-right: 5%;
+}
+.chamada-texto{
+    font-size: 25px;
+}
